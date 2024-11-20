@@ -17,4 +17,5 @@ def plot_graph(df, output_path="futures_market_plot.png"):
     plt.legend()
     plt.tight_layout()
     plt.grid(alpha=0.3)
+    plt.savefig(output_path)
     plt.show()
