@@ -12,7 +12,8 @@ This project extracts data from the "Futures Market Overview" table on a webpage
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/futures_market_analysis.git
+   https://github.com/kunal-geeks/futures_market_analysis.git
+   ```
 
 2. Navigate to the directory and install dependencies:
 ```bash
